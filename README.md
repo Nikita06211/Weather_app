@@ -2,7 +2,7 @@
 
 Welcome to WeatherWise, a user-friendly weather application designed to provide you with quick and accurate weather updates for cities around the world.
 
-<p>
+<p align="center">
   <img width="270" alt="weather_app2" src="https://github.com/Nikita06211/Weather_app/assets/120494269/556b8fc8-af26-4171-80b9-c687701db378">
   <img width="272" alt="weather_app1" src="https://github.com/Nikita06211/Weather_app/assets/120494269/4eeb9641-36b3-49e1-8b1a-c2ec3fa61fea">
   <img width="272" alt="weather_app3" src="https://github.com/Nikita06211/Weather_app/assets/120494269/0134cfe7-4cf1-427d-8d73-acace90badc6">
