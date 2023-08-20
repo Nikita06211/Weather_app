@@ -1,10 +1,9 @@
 # WeatherWise - Your Simple Weather Companion
 
-Welcome to WeatherWise, a user-friendly weather application designed to provide you with quick and accurate weather updates for cities around the world.
+#### Welcome to WeatherWise, a user-friendly weather application designed to provide you with quick and accurate weather updates for cities around the world.
 
 <p align="center">
-  <img width="270" alt="weather_app2" src="https://github.com/Nikita06211/Weather_app/assets/120494269/556b8fc8-af26-4171-80b9-c687701db378">
-  <img width="272" alt="weather_app1" src="https://github.com/Nikita06211/Weather_app/assets/120494269/4eeb9641-36b3-49e1-8b1a-c2ec3fa61fea">
+  <img width="758" alt="las vegas" src="https://github.com/Nikita06211/Weather_app/assets/120494269/3551559f-feb7-4bac-8b20-5a48ac304002">
 </p>
 
 ## Introduction
